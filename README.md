@@ -7,10 +7,10 @@ Receuillir les informations dont on a besoin.
 
 ### Liste des sources consultées👋
 
-https://www.instagram.com/
-https://www.google.com/
-https://web.facebook.com/
-https://www.linkedin.com/
+https://www.instagram.com/;
+https://www.google.com/;
+https://web.facebook.com/;
+https://www.linkedin.com/;
 
 ### Difficultés rencontrées et solutions trouvées👋
 
